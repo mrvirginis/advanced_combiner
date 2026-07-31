@@ -90,7 +90,7 @@ Reading source wordlists...
 
 * **Author:** BlackzodiaK.
 * **Release Version:** v1.01 (2026)
-* **Official Blog:** [TheBlackzodaiK.blogspot.com](https://blogspot.com)
+* **Official Blog:** [TheBlackzodaiK.blogspot.com](https://theblackzodiak.blogspot.com/)
 
 ---------------------------------------------------------
 
